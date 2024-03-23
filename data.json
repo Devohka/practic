@@ -1,0 +1,36 @@
+{
+    "goods": [
+        {
+            "name": "apple",
+            "price": 100,
+            "id": 1
+        },
+        {
+            "name": "grape",
+            "price": 150,
+            "id": 2
+        },
+        {
+            "name": "orange",
+            "price": 250,
+            "id": 3
+        }
+    ],
+    "machinery": [
+        {
+            "name": "computer",
+            "price": 1000,
+            "id": 1 
+        },
+        {
+            "name": "TV",
+            "price": 15000,
+            "id": 2
+        },
+        {
+            "name": "phone",
+            "price": 2000,
+            "id": 3
+        }
+    ]
+}
